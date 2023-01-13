@@ -1,0 +1,25 @@
+{
+  "name": "gerador_cpf",
+  "version": "1.0.0",
+  "description": "Gerador de CPF válidos para testes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikeias-silva/gerador_cpf.git"
+  },
+  "keywords": [
+    "gerador",
+    "cpf",
+    "geradorcpf"
+  ],
+  "author": "Mikeias Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikeias-silva/gerador_cpf/issues"
+  },
+  "homepage": "https://github.com/mikeias-silva/gerador_cpf#readme",
+  "type": "module"
+}
